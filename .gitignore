@@ -1,0 +1,16 @@
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# a config real de cada pessoa nunca vai pro repo — só o exemplo
+brand.config.json
+
+# saída de render
+*.mp4
+*.mov
+*.zip
+
+__pycache__/
+*.pyc
+.venv/
