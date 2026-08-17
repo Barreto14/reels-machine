@@ -1,0 +1,12 @@
+{
+  "name": "reels-machine",
+  "version": "1.0.0",
+  "description": "Edit vertical Reels from scratch in the terminal with ffmpeg: cut scenes, crop to 9:16, generate a branded cover, find and download royalty-free music (Pixabay, no Content ID) and mux it all in sync. The Reel comes out ready to post. Brand-agnostic — you plug in your own logo, fonts and colors via a config file. Created by Brasa · Tráfego & Mídia.",
+  "author": {
+    "name": "Brasa · Tráfego & Mídia",
+    "url": "https://instagram.com/brasa.trafego.vix"
+  },
+  "homepage": "https://instagram.com/brasa.trafego.vix",
+  "license": "MIT",
+  "keywords": ["reels", "video", "ffmpeg", "instagram", "shorts", "editing", "vertical-video", "brasa"]
+}
