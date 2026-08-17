@@ -1,0 +1,32 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "brasa-tools",
+  "description": "Ferramentas de produção de conteúdo feitas pela Brasa · Tráfego & Mídia e liberadas de graça. Content-production tools by Brasa, released free.",
+  "owner": {
+    "name": "Brasa · Tráfego & Mídia",
+    "url": "https://instagram.com/brasa.trafego.vix"
+  },
+  "plugins": [
+    {
+      "name": "reels-machine",
+      "description": "Edit vertical Reels from scratch in the terminal with ffmpeg: cut scenes, crop to 9:16, generate a branded cover, find and download royalty-free music (Pixabay, no Content ID) and mux it all in sync. The Reel comes out ready to post. Brand-agnostic — plug in your own logo, fonts and colors via a config file.",
+      "author": {
+        "name": "Brasa · Tráfego & Mídia",
+        "url": "https://instagram.com/brasa.trafego.vix"
+      },
+      "category": "media",
+      "source": "./plugins/reels-machine",
+      "homepage": "https://instagram.com/brasa.trafego.vix",
+      "license": "MIT",
+      "keywords": [
+        "reels",
+        "video",
+        "ffmpeg",
+        "instagram",
+        "shorts",
+        "editing",
+        "vertical-video"
+      ]
+    }
+  ]
+}
